@@ -16,6 +16,14 @@ p {padding-right: 15px;}
 
 .no-style {border: none; background: none; color: #fff;}
 
+.upper {
+	text-transform: uppercase;
+}
+
+.was {
+	text-decoration: line-through;
+}
+
 td {position: relative;}
 
 .reduced:after {
