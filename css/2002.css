@@ -24,11 +24,11 @@ p {padding-right: 15px;}
 	text-decoration: line-through;
 }
 
-td {position: relative;}
+.box {position: relative;}
 
 .reduced:after {
 	content: "";
 	background: transparent url('images/reduced.png') no-repeat;
-	position: absolute; top: 2px; left: 2px;
+	position: absolute; top: 0; left: 0;
 	width: 107px; height: 60px;
 }
